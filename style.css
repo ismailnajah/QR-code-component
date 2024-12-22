@@ -12,7 +12,7 @@ body {
 
 .card {
     margin: auto;
-    padding: 2rem;
+    padding: 1.5rem;
     width: min-content;
     height: min-content;
     border-radius: 2rem;
@@ -20,24 +20,25 @@ body {
 }
 
 .qr-code-image {
+    width: 20rem;
     border-radius: 1rem;
 }
 
 p {
     text-align: center;
     font-family: Outfit;
-    margin: 2rem 2rem;
+    margin: 1.5rem;
 }
 
 .card-title {
     font-weight: 700;
-    font-size: 45px;
+    font-size: 20px;
     color: hsl(218, 44%, 22%);
 }
 
 .card-description {
     font-weight: 400;
-    font-size: 30px;
+    font-size: 15px;
     padding-bottom: 1rem;
     color: hsl(216, 15%, 48%);
 }
