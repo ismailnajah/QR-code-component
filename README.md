@@ -9,10 +9,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![Desktop preview](./Desktop-preview.png)
 *Desktop preview*
 
-
-![Mobile preview](./mobile-preview.png)
-*mobile preview*
-
 ### Built with
 
 - Semantic HTML5 markup
